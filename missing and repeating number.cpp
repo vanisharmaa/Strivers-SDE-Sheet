@@ -2,7 +2,7 @@
 You are given a vector of n integers from 1 to n.
 
 Each integer appears exactly once except M which is missing and R which appears twice.
-Return A and B.
+Return M and R.
 
 Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
