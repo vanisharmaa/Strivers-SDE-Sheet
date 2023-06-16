@@ -4,7 +4,7 @@
   A reverse pair is a pair (i, j) where:
   
   0 <= i < j < nums.length and
-  nums[i] > 2 * nums[j].
+  nums[i] > 2 * nums[j]. 
 */
 
 int merge(vector<int>& nums, int si1, int si2, int ei2){
